@@ -55,6 +55,11 @@
      <Compile Include="Assets\B23\boxDestroy.cs" />
      <Compile Include="Assets\B23\starsDestroy.cs" />
      <Compile Include="Assets\B24\createSpheres.cs" />
+     <Compile Include="Assets\B25\button.cs" />
+     <Compile Include="Assets\B26\move.cs" />
+     <Compile Include="Assets\B27\pauser.cs" />
+     <Compile Include="Assets\B28\Reactor.cs" />
+     <Compile Include="Assets\B28\Switcher.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
